@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "EnemyShipOrange",
+    "texture": "793eadf4-f143-49e0-9bf5-b76d7c7a95ff",
+    "atlas": "",
+    "rect": [
+      2,
+      43,
+      197,
+      120
+    ],
+    "offset": [
+      0.5,
+      -3
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
